@@ -3,11 +3,8 @@
 Я <b>Артем Мурчин</b>, DevOps-инженер.
 
 <div id="badges">
-  <a href="https://t.me/ArtemMurchin">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <a href="asmurchin@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Email Badge"/>
+  <a href="https://taplink.cc/artem_murchin">
+    <img src="https://img.shields.io/badge/Контакты-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Contacts Badge"/>
   </a>
 </div>
 
